@@ -128,6 +128,7 @@ time {
 }
 
 a {
+	white-space: nowrap;
 	color: rgb(77, 143, 195);
 	text-decoration: none;
 }
