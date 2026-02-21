@@ -84,7 +84,7 @@ time {
 		flex-direction: column;
 	}
 	main {
-		border-left: initial;
+		border-right: initial;
 		padding-left: initial;
 
 		padding-top: 1em;
