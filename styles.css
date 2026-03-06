@@ -92,6 +92,7 @@ time {
 	}
 	aside {
 		display: flex;
+		flex-direction: column;
 		justify-content: space-around;
 		flex-wrap: wrap;
 		gap: 1em;
