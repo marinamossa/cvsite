@@ -1,2 +1,2 @@
-My name is Marina. I am web-developer. This is my CV.
+Web-developer`s CV.
 Portfolio link https://bzden.ru/
